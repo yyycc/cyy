@@ -5,4 +5,3 @@
 
 ### Typescript
 [TypeScript](https://github.com/yyycc/cyy/issues/3)
-[TypeScript -- Structural Typing](https://github.com/yyycc/cyy/issues/4)
